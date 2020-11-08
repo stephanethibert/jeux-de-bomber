@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+@font-face{
+
+  font-family: 'Pixel';
+  src: url(../ressources/polices/vcr_osd_mono_1.001-webfont.woff2);
+
+}
