@@ -1,0 +1,25 @@
+{
+
+"images": [
+  "ressources/images/explosion.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 327, 322, 0, -13, -18],
+    [330, 1, 231, 228, 0, -71, -52],
+    [563, 1, 168, 168, 0, -94, -104],
+    [733, 1, 113, 107, 0, -118, -121],
+    [848, 1, 78, 76, 0, -134, -138]
+],
+
+"animations": {
+    "explosion": { "frames": [4, 3, 1, 0, 2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:958ad708bae11f68f32f438848c96ef9:4aa802569245e2576a3dc1ee9c380131:d0615331ad3f127444903f4a65a32e5f$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

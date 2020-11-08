@@ -1,0 +1,13 @@
+{
+  "manifest": [
+    {"id": "background0",  "src": "ressources/images/background0.png"},
+    {"id": "background1",  "src": "ressources/images/background1.png"},
+    {"id": "heros",  "src": "ressources/atlas/heros.json", "type": "spritesheet" },
+    {"id": "frapper",  "src": "ressources/atlas/frapper.json", "type": "spritesheet" },
+    {"id": "bombe",  "src": "ressources/images/bombe.png"},
+    {"id": "menu",  "src": "ressources/images/menu.png"},
+    {"id": "explosion",  "src": "ressources/atlas/explosion.json", "type": "spritesheet" },
+    {"id": "explosion1",  "src": "ressources/sons/explosion1.mp3"},
+    {"id": "music",  "src": "ressources/sons/music.mp3"}
+  ]
+}
